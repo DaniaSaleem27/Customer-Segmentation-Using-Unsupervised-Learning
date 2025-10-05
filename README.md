@@ -29,10 +29,14 @@ Cluster 2: High income – Low spending → Careful Spenders
 
 Cluster 3: Low income – High spending → Impulsive Buyers
 
-Conclusion:
-The K-Means model effectively segmented customers into meaningful clusters, providing valuable insights for data-driven marketing decisions.
-This approach enables businesses to design more focused and profitable marketing strategies based on customer behavior.
-
 Cluster 4: Low income – Low spending → Budget Customers
 
 Each group reflects unique purchasing behavior and requires different marketing strategies such as loyalty programs, targeted promotions, or premium membership offers.
+
+Conclusion:
+
+The K-Means model effectively segmented customers into meaningful clusters, providing valuable insights for data-driven marketing decisions.
+
+This approach enables businesses to design more focused and profitable marketing strategies based on customer behavior.
+
+
